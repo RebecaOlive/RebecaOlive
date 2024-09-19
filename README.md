@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RebecaOlive&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RebecaOlive&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="160" src="https://media3.giphy.com/media/2zoFg7OGkcS82CPK44/giphy.gif?cid=ecf05e47laoggk7jxgs0s7p1pu8c0ahc8e29khl4z5qnnouo&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
